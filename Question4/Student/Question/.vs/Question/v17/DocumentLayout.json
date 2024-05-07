@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\Question\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02AD846-B146-4F73-B5BF-389DD8FA9A5D}|Question\\Question.csproj|c:\\users\\prave\\source\\repos\\question\\question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02AD846-B146-4F73-B5BF-389DD8FA9A5D}|Question\\Question.csproj|solutionrelative:question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Question\\Question\\Program.cs",
+              "RelativeDocumentMoniker": "Question\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Question\\Question\\Program.cs",
+              "RelativeToolTip": "Question\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:52:19.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

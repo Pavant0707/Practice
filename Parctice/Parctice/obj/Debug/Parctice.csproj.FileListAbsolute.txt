@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\Parctice\Parctice\obj\Debug\Parctice.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\Parctice\Parctice\obj\Debug\Parctice.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\Parctice\Parctice\bin\Debug\Parctice.exe.config
+C:\Users\Prave\source\repos\Parctice\Parctice\bin\Debug\Parctice.exe
+C:\Users\Prave\source\repos\Parctice\Parctice\bin\Debug\Parctice.pdb
+C:\Users\Prave\source\repos\Parctice\Parctice\obj\Debug\Parctice.exe
+C:\Users\Prave\source\repos\Parctice\Parctice\obj\Debug\Parctice.pdb

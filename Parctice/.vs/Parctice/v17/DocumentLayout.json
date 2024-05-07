@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\Parctice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5640FB10-B3F8-4683-BE8F-A060583BA3B0}|Parctice\\Parctice.csproj|c:\\users\\prave\\source\\repos\\parctice\\parctice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5640FB10-B3F8-4683-BE8F-A060583BA3B0}|Parctice\\Parctice.csproj|solutionrelative:parctice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\Parctice\\Parctice\\Program.cs",
+              "RelativeDocumentMoniker": "Parctice\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\Parctice\\Parctice\\Program.cs",
+              "RelativeToolTip": "Parctice\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:46:37.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
